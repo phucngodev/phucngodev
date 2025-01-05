@@ -2,7 +2,9 @@
 
 I'm Phuc, Golang craft. I'm building a web framework for Go...
 
-![My Go Web Kit](fw.png)
-![My Web Framework](profile.png)
-![My Go Web Kit fw 1](fw1.png)
+![fw1](fw1.jpeg)
+![fw2](fw2.jpeg)
+![fw3](fw3.jpeg)
+![fw4](fw4.jpeg)
+![fw5](fw5.jpeg)
 ![Signup Page](signup.png)
