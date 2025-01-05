@@ -1,6 +1,6 @@
 # About Me
 
-I'm Phuc, Golang craft. I'm cooking a new framework for Go...
+I'm Phuc, Golang craft. I'm cooking a new Golang framework.
 
 ![fw1](fw1.jpeg)
 ![fw2](fw2.jpeg)
