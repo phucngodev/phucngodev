@@ -2,8 +2,8 @@
 
 Hey I'm Phuc, I'm cooking a new Golang framework.
 
-![code](code.png)
-![kit](kit.png)
+![code](code.jpg)
+![kit](kit.jpg)
 ![Signup Page](signup.png)
 
 # Introduction
