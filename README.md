@@ -88,7 +88,7 @@ The framework includes a CLI tool (`kit`) for common tasks:
 | `kit build`     | Build the production binary.                     |
 | `kit debug`     | Start a debugging session.                       |
 | `go test ./...` | Run all tests.                                   |
-| `npm run build` | Build frontend assets.                           |
+| `kit  assets` | Build frontend assets.                           |
 | `kit provision` | Provision the production server.                 |
 | `kit deploy`    | Deploy the application.                          |
 | `kit domain -n NAME`    | Generate new domain file.                          |
